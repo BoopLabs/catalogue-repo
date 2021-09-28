@@ -1,9 +1,8 @@
 [packages]
-[packages.apkg]
-"1.0.0" = "https://alt.innatical.com/repo/linux/amd64/apkg-1-0-0.apkg"
-"1.0.1" = "https://alt.innatical.com/repo/linux/amd64/apkg-1-0-1.apkg"
-[packages.alt]
-"1.0.0" = "https://alt.innatical.com/repo/linux/amd64/alt-1-0-0.apkg"
-"1.0.1" = "https://alt.innatical.com/repo/linux/amd64/alt-1-0-1.apkg"
-"1.0.2" = "https://alt.innatical.com/repo/linux/amd64/alt-1-0-2.apkg"
-"1.0.3" = "https://alt.innatical.com/repo/linux/amd64/alt-1-0-3.apkg"
+[packages.catalogue]
+"1" = "https://alt.innatical.com/repo/linux/amd64/boopbrowser
+[packages.applist]
+"0.1" = "https://url.temp/repo/linux/amd64/booplinux-core
+"0.1" = "https://url.temp/repo/linux/amd64/booplinux-core-dnf
+"0.1" = "https://url.temp/repo/linux/amd64/booplinux-extras
+"0.1" = "https://url.temp/repo/linux/amd64/booplinux-extras-dnf
